@@ -1,0 +1,15 @@
+{
+  "name": "Secret_Multi_Stake_Unstake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsmjsm",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "secretjs": "^0.16.7"
+  }
+}
