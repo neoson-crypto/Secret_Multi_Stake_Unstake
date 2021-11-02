@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
     "secretjs": "^0.16.7"
   }
 }
